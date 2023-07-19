@@ -1,0 +1,25 @@
+{
+  "details": {
+    "student_name": "John Doe",
+    "age": 16,
+    "grade": 10,
+    "address": {
+      "street": "123 Main Street",
+      "city": "mumbai",
+      "state": "Maharashtra",
+      "postal_code": "12345"
+    },
+    "parent_details": {
+      "father_name": "Michael Doe",
+      "mother_name": "Jane Doe",
+      "contact_number": "+1234567890",
+      "email": "john.doe@example.com"
+    }
+  },
+  "subjects": [
+    "Mathematics",
+    "English",
+    "Science"
+  ],
+  "student_fees": 5000
+}
